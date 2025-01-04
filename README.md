@@ -2,5 +2,5 @@
 
 App with hooks examples.
 
-#Stack:
+# Stack:
 Typescript + React + Tailwind + Bootstrap
