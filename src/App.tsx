@@ -1,6 +1,7 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import UseCallBackExample from './components/UseCallBackExample';
+// import UseCallBackExample from './components/UseCallBackExample';
+import CustomHookExample1 from './components/CustomHookExample1';
 // import UseMemoExample from './components/UseMemoExample';
 // import UseRefExample3 from './components/UseRefExample3';
 // import UseRefExample1 from './components/UseRefExample1';
@@ -14,7 +15,8 @@ function App() {
 			{/* <UseRefExmaple2 /> */}
 			{/* <UseRefExample3 /> */}
 			{/* <UseMemoExample /> */}
-			<UseCallBackExample />
+			{/* <UseCallBackExample /> */}
+			<CustomHookExample1 />
 		</>
 	);
 }
